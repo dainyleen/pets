@@ -35,7 +35,7 @@ const pets = [
     photo: 'img/pug.jpg'
   },
   {
-    name: 'silhouette',
+    name: 'Silhouette',
     type: 'Cat',
     breed: 'Domestic Shorthair',
     age: 9,
